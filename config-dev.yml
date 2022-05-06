@@ -1,0 +1,5 @@
+server:
+  port: 3344 #端口号
+spring:
+  application:
+    name: spring-cloud-config-center #服务名
